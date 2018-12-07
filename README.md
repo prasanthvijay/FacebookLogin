@@ -1,5 +1,5 @@
 # FacebookLogin
-Refrence Link 
+Reference link
 
 https://medium.com/react-native-training/facebook-sdk-with-login-for-react-native-apps-in-2018-196601804f66
 
