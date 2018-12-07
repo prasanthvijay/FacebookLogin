@@ -5,6 +5,8 @@ https://medium.com/react-native-training/facebook-sdk-with-login-for-react-nativ
 
 Login to facebook developer login and create new "app".
 
+https://developers.facebook.com/docs/facebook-login/
+
 Generate Haskey for Windows
 
 keytool -exportcert -alias androiddebugkey -keystore "C:\Users\USERNAME\.android\debug.keystore" | openssl sha1 -binary | openssl base64
